@@ -1,0 +1,6 @@
+﻿--------------------------------------------------------------------------------
+- World of Warcraft Client Patch 1.1.2 (2004-12-6)
+--------------------------------------------------------------------------------
+
+- Removed time zone tabs from realm list for U.S., all servers now appear 
+  in one list.
